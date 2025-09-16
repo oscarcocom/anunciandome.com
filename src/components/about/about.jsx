@@ -11,6 +11,7 @@ import Person02 from "../../assets/about/person02-02.png";
 
 const about = () => (
   <>
+  
   <div id="about">
     <div className="wrapper">
       <Title title="¿Cómo funciona?" />
