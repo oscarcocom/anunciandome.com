@@ -15,7 +15,8 @@ const about = () => (
     <div className="wrapper">
       <Title title="¿Cómo funciona?" />
       <p className="font12">
-      Ya seas negocio que quiere anunciarse o conductor que quiere ganar más con una pantalla, tus anuncios llegan a personas con alta intención. <br></br>
+                  Conecta con tu audiencia sin que pasen tus anuncios por alto. Coloca tu marca al frente, genera recordación y destaca con contenido que realmente impacta. 
+  Si eres socio conductor, ofrece entretenimiento, mejora la experiencia a bordo y aumenta tus posibilidades de recibir propinas.<br></br>
       </p>
       <Row> 
         <Col md={12} lg={4}>
@@ -34,7 +35,7 @@ const about = () => (
     <div className="wrapper">
       <Title title="¿Por qué nosotros?" />
       <p className="font12">
-      Ya seas negocio que quiere anunciarse o conductor que quiere ganar más con una pantalla, tus anuncios llegan a personas con alta intención. <br></br>
+      Descubre una nueva forma de conectar con tu audiencia, evitando que se salten anuncios como en redes sociales y que lo unico que este defrente seas tu. Impulsa tu marca y destaca entre la multitud con publicidad que realmente impacta. ¡Haz que tu negocio sea inolvidable y lleva tu presencia al siguiente nivel!
       </p>
       <ul className="reasons-list">
         <li>Publicidad dirigida a clientes potenciales.</li>

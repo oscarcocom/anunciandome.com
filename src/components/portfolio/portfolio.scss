@@ -14,10 +14,12 @@
       }
       li:hover {
         background-color: $main-color;
+        color: white;
       }
     }
     .portfolio__nav-active {
       background-color: $main-color;
+      color: white;
     }
   }
   .portfolio__filter {
