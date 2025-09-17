@@ -45,6 +45,7 @@ const about = () => (
         <li>Resultados medibles y efectivos.</li>
       </ul>
   
+  
     </div>
   </div>
   </>
