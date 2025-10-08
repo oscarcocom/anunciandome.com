@@ -30,11 +30,11 @@ const contactInfo = () => (
           />
         </Col>
         <Col xs={12} lg={3} className="contact__info">
-          <ContactInfoBox
+          {/* <ContactInfoBox
             icon={ContactInfoIcon3}
             textLine1="Correo Electrónico"
             textLine2="helpimpact360@gmail.com"
-          />
+          /> */}
         </Col>
       </Row>
     </Col>
